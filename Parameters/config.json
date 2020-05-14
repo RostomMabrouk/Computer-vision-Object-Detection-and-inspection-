@@ -1,0 +1,17 @@
+{
+"path_data": "F:\\NewSetup",
+"path_text": "C:\\Users\\RMabrouk\\Documents\\Opticam\\Models\\Ready_models",
+"path_model": "C:\\Users\\RMabrouk\\Documents\\Opticam\\Models\\Ready_models",
+"SP_CLBT_C1": "220",
+"SP_CLBB_C1": "900",
+"SP_CLBT_C2": "280",
+"SP_CLBB_C2": "900",
+"LP_CLBT_C1": "240",
+"LP_CLBB_C1": "900",
+"LP_CLBT_C2": "240",
+"LP_CLBB_C2": "900",
+"SP_binmask1": "C:\\Users\\RMabrouk\\Documents\\Opticam\\Masks\\SP_img1_seg.bmp",
+"SP_binmask2": "C:\\Users\\RMabrouk\\Documents\\Opticam\\Masks\\SP_img2_seg.bmp",
+"LP_binmask1": "C:\\Users\\RMabrouk\\Documents\\Opticam\\Masks\\LP_img1_seg.bmp",
+"LP_binmask2": "C:\\Users\\RMabrouk\\Documents\\Opticam\\Masks\\LP_img2_seg.bmp"
+}
