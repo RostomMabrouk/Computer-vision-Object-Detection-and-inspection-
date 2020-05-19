@@ -13,12 +13,11 @@ class build_ext(_build_ext):
 
 setup(
     name="opticam",
-    version="0.1",
+    version="0.1.0",
+    
     ext_modules=[
                  Extension('analysis', [r'C:\Users\RMabrouk\Documents\Opticam\opticam\analysis.c']),
                  Extension('segmentation', [r'C:\Users\RMabrouk\Documents\Opticam\opticam\segmentation.c']),
-                 Extension('entrygate', [r'C:\Users\RMabrouk\Documents\Opticam\opticam\entrygate.c']),
-                 Extension('logwriter', [r'C:\Users\RMabrouk\Documents\Opticam\opticam\logwriter.c']),
                  Extension('decision', [r'C:\Users\RMabrouk\Documents\Opticam\opticam\decision.c'])
                  ],
     author='Rostom Mabrouk',
