@@ -34,7 +34,7 @@ LOGGER_LP2 = log.ColoredLogger("Log_LP_Cam2",  os.path.join(Path, Output, "Log_L
 
 
 
-conn = psycopg2.connect(database="synsoftdb", user="synmeddb", password="xxxxxxxxxxx")
+conn = psycopg2.connect(database="xxxxxxxxxx", user="xxxxxxxxxx", password="xxxxxxxxxxx")
 conn.set_isolation_level(psycopg2.extensions.ISOLATION_LEVEL_AUTOCOMMIT)
 
 curs = conn.cursor()
